@@ -8,6 +8,6 @@ My motivation for building this was to reinforce Javascript, time, and local sto
 Open the HTML file in any web browser to utilize the application. No further installation is needed
 
 ## Demonstration 
-
+![Work Day Scheduler ](https://user-images.githubusercontent.com/103971670/180663446-7ea0385c-7de6-4a27-be44-c02e241e17b1.png)
 
 
